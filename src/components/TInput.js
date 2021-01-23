@@ -9,7 +9,7 @@ function TInput(props) {
             </label>
             <div className="mt-2">
                 <input
-                    className="bg-gray-300 rounded-md w-full h-9 p-3 border-2 border-gray-300 outline-none"
+                    className="bg-gray-300 rounded-md w-full h-9 p-3 border-2 border-gray-300 outline-none transition duration-500 focus:ring-2 focus:ring-yellow-500"
                     type={props.type}
                     name={props.name}
                     placeholder={props.placeholder}

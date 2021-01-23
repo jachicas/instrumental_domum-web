@@ -6,6 +6,7 @@ module.exports = {
       backgroundColor: {
         'primary': '#252525',
         'secundary': '#F5F5F5',
+        'search': '#353535',
         'general': '#F5A700',
         'danger': '#F58E00'
       },
